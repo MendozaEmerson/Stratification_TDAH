@@ -1,0 +1,33 @@
+# Node dependencies
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Python cache & virtualenvs
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Data & Large model files
+*.npy
+*.joblib
+*.pkl
+!demo_patients/*.json
+
+# Database & Runtime reports
+backend/screenings.db
+backend/reports/*.pdf
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+

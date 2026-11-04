@@ -1,0 +1,29 @@
+[
+  {
+    "id": "NDARZF602KU6",
+    "key": "control",
+    "stratum": "Control / Sintomatología Mínima",
+    "expected_class": 0,
+    "age": 7.9,
+    "sex": "Femenino",
+    "file": "patient_0_control.json"
+  },
+  {
+    "id": "NDARXP717YMH",
+    "key": "moderado",
+    "stratum": "Sintomatología Moderada",
+    "expected_class": 1,
+    "age": 9.7,
+    "sex": "Femenino",
+    "file": "patient_1_moderado.json"
+  },
+  {
+    "id": "NDARDF373ZDW",
+    "key": "severo",
+    "stratum": "TDAH Severo",
+    "expected_class": 2,
+    "age": 10.2,
+    "sex": "Masculino",
+    "file": "patient_2_severo.json"
+  }
+]
